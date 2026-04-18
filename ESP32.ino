@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 
 // Replace with your network credentials
-const char* ssid = "AndroidAP_6263";
-const char* password = "hihihihi8";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "PASSWORD";
 
 // Replace with your Deployment URL from Google Apps Script
 String serverName = "https://script.google.com/macros/s/AKfycbyLmDmcfZfWP6pwK8zxsJUUDUqVKMyNuHppjBBFv85zEeC1jAYg2P-sQtawi_HoN96Jaw/exec";
